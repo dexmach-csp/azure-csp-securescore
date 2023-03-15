@@ -22,7 +22,7 @@ storage_account
 
 ### Installation
 
-1. Install the PowerBI app from Appsource: [Link](https://app.powerbi.com/Redirect?action=InstallApp&appId=5f2129a5-9c6a-4553-8f6a-e57641e13801&packageKey=da576afe-3b28-47e1-8f21-95a4b09d9621Rgkg1zwqoCQjuUPI-e7buNcGEGNPOrtEUozR9Nc5xKk&ownerId=99c75c69-9ef2-4c4e-b5e3-54b6cf95c977&buildVersion=5)
+1. Install the PowerBI app from Appsource: [Link](https://app.powerbi.com/Redirect?action=InstallApp&appId=5f2129a5-9c6a-4553-8f6a-e57641e13801&packageKey=5d4c1245-45c7-4c41-98cd-29ca1ebf9a6a-P9WS2492W-opv2eGMwiJKTlhxm6KfmEnJCeBT-EQt0&ownerId=99c75c69-9ef2-4c4e-b5e3-54b6cf95c977&buildVersion=8)
 
 2. Since the app is in pre-production and not listed on AppSource yet, you will receive a popup asking you if it's ok to install the app.  
 ![installed_app](../img/appsource_popup.png)
