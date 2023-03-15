@@ -1,5 +1,5 @@
 <div align="center"><img src="https://www.dexmach.com/wp-content/uploads/2022/06/cropped-DexMach_a_cegeka_company_icon_RGB-HighRes.png" width="150px"/></div>
-<h1 align="center">AZURE CSP SECURE SCORES</h1>
+<h1 align="center">AZURE CSP SECURE SCORE</h1>
 <p align="center">
   Making your landscape visual is an essential first step towards a more robust security posture. For CSPs, this means gaining a clear view of the security posture of all your linked customers.
 </p>
