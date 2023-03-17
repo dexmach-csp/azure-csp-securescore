@@ -261,7 +261,7 @@ function Start-CSPSecureScoreDataProcess {
                     }
                 )
                 ApplicationId     = $using:CSP_Partner_SpnId
-                DisplayName       = 'Mission 65'
+                DisplayName       = 'DexMach CSP Secure Score dashboard'
             }
             $Uri = "https://api.partnercenter.microsoft.com/v1/customers/$($_.CustomerId)/applicationconsents"
             $null = Invoke-RestMethod -Method 'Post' -Uri $Uri -Body ($Body | ConvertTo-Json) -Authentication 'Bearer' -Token (ConvertTo-SecureString -AsPlainText -Force -String $using:CSPToken.access_token) -ContentType 'application/json' -ErrorAction 'Stop'
