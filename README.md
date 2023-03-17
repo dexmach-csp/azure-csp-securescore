@@ -1,5 +1,5 @@
 <div align="center"><img src="https://www.dexmach.com/wp-content/uploads/2022/06/cropped-DexMach_a_cegeka_company_icon_RGB-HighRes.png" width="150px"/></div>
-<h1 align="center">AZURE CSP SECURE SCORES</h1>
+<h1 align="center">AZURE CSP SECURE SCORE</h1>
 <p align="center">
   Making your landscape visual is an essential first step towards a more robust security posture. For CSPs, this means gaining a clear view of the security posture of all your linked customers.
 </p>
@@ -47,3 +47,8 @@ The data in the storage account can than be used by our Power BI template app to
 -  [3. SecureScore Data Process](docs/securescore_data_process.md)
 -  [4. SecureScore Data Upload](docs/securescore_data_upload.md)
 -  [5. Visualize with Power BI Template App](docs/powerbi_guide.md)
+
+
+## ⚠️ Get in touch:
+If you have any questions regarding this project you can get in touch using <a href="https://github.com/dexmach-csp/azure-csp-securescore/issues">issues</a>, <a href="https://github.com/dexmach-csp/azure-csp-securescore/discussions">discussions</a> or through our <a href="https://www.dexmach.com/security-webinar/">contact form</a>.  
+Note: This project was tested on an environment of approx. 500 customers. If you experience any performance issue's please get in touch to discuss your use-case.
