@@ -510,14 +510,14 @@ function Start-CSPSecureScoreDataUpload {
         #region User prompts
         Write-Host "`n>> User prompts <<" -ForegroundColor Cyan
         do {
-            $ResourceGroupName = (Read-Host -Prompt "Provide the resource group name in which you want to create the storage account").TrimEnd().TrimStart()
+            $ResourceGroupName = (Read-Host -Prompt "Provide the resource group name in which you have or want to create the storage account").TrimEnd().TrimStart()
             if (-not $ResourceGroupName) {
                 Write-Host "No input was provided. Please try again."
             }
         }
         while (-not $ResourceGroupName)
         do {
-            $StorageAccountName = (Read-Host -Prompt "Provide the name of the storage account that you wish to create. Maximum 24 characters are allowed").TrimEnd().TrimStart()
+            $StorageAccountName = (Read-Host -Prompt "Provide the name of the storage account that you have or wish to create. Maximum 24 characters are allowed").TrimEnd().TrimStart()
             if (-not $StorageAccountName) {
                 Write-Host "No input was provided. Please try again."
             }
